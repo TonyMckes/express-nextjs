@@ -1,0 +1,6 @@
+[submodule "express-nextjs-backend"]
+	path = express-nextjs-backend
+	url = https://github.com/TonyMckes/express-nextjs-backend
+[submodule "express-nextjs-frontend"]
+	path = express-nextjs-frontend
+	url = https://github.com/TonyMckes/express-nextjs-frontend
